@@ -1,0 +1,1 @@
+# Linux-Gerekli-Bilgiler-2
