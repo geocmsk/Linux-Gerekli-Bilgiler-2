@@ -164,3 +164,10 @@ Açıklama: Paketlerin hedeflerine ulaşana kadar izledikleri yolu gösterir.
 traceroute ornek.com: 'ornek.com' adresine giden paketlerin yolunu gösterir.
 
 ![image](https://github.com/geocmsk/Linux-Gerekli-Bilgiler-2/assets/90604931/04549bf5-0f9e-4f02-bb59-83f975ca324f)
+
+
+
+
+Derleme için @lilium hocama teşekkür ederim..
+
+
